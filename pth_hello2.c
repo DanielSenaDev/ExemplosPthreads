@@ -58,4 +58,3 @@ void *Hello(void* rank) {
    printf("Thread %ld of %d exit!\n", my_rank, thread_count);
    return NULL;
 }  /* Hello */
-
